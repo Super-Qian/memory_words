@@ -1,0 +1,66 @@
+1.urge n.冲动,迫切的要求,推动力v.催促,力劝;强烈要求
+2.impose vt.(on)强加于;征(税等)，处以(罚款等)
+3.dismiss vt.不再考虑;解雇，开除;解散;驳回
+4.embarrass vt.使窘，使尴尬，使不好意思
+5.echo n.回音，共鸣vi.发出回声vt.模仿，附和
+6.assess vt.对…进行估价;评价，评论
+7.suppress vt.压制，镇压;查禁;抑制;阻止
+8.suppressant n.抑制剂,抑爆剂,灭火剂
+9.nutrient n.营养品，滋养物a.营养的，滋养的
+10.grant v.授予,同意,承认,认为n.授予物,补助金,同意,给予,财产转让
+11.deploy vt.部署，调动
+12.philanthropic adj.博爱的,慈善的
+13.spot n.地点;斑点，污点;少量vt.认出;玷污
+14.ballot n.投票;投票总数;选票v.投票表决
+15.immense a.广大的，巨大的
+16.predominantly adv.主要地,占优势地,压倒性地
+17.dispense vt.分配，分发;配(药)，发(药);实施
+18.overtake vt.追上，超过;突然降临于，意外地碰上
+19.convene vi.开会，集合vt.召集
+20.patent n.专利(权)a.专利(权)的vt.得到专利
+21.genuine a.真的，非人造的;真诚的，真心的
+22.underlying a.含蓄的，潜在的
+23.modify vt.修改，更改;(语法上)修饰
+24.compatriot n.同国人,同胞,同事adj.同国的
+25.sociology n.社会学
+26.subtle a.微妙的;诡秘的，狡诈的;隐约的
+27.incur vt.招致，遭受，引起
+28.luxurious a.奢侈的
+29.enormous a.巨大的，极大的，庞大的
+30.cautious a.十分小心的，谨慎的
+31.contemptuous a.轻视的,轻蔑的
+32.notorious a.臭名昭著的，声名狼藉的
+33.tedious a.乏味的，单调的，冗长的
+34.insidious adj.隐伏的,暗中为害的,阴险的,(疾病)不知不觉恶化
+35.dubious a.怀疑的，无把握的;有问题的，靠不住
+36.simultaneous a.同时发生的，同时存在的，同步的
+37.reciprocal a.相互的，互惠的
+38.instinctively ad.本能地
+39.distinctive a.有区别的;有特色的
+40.successively adv.一个接一个地;接连地，连续地
+41.aggressively adv.侵略地,攻击地,有干劲地，主动地
+42.vocal a. 直言不讳的,嗓音的,有声的
+43.vocational a. 职业的
+44.void a.空的;无效的
+45.volunteer n.志愿者 vt.志愿
+46.vulgar a.粗俗的,庸俗的
+47.vulnerable a. 易受伤害的,脆弱的,易受攻击的
+48.wallet n.钱包,皮夹子
+49.ward n.病房,病室;监房
+50.warehouse n.仓库,货栈
+51. warfare n.战争,战争状态
+52.warrant n. 正当理由, 委任状,许可证
+53.watertight a.不漏水的,防水的
+54.watt n.瓦(特)
+55.weary a.疲倦的 vt.使疲乏
+56.web n.网,丝,网状物
+57.wedge n.楔 vt.楔入;挤入
+58.whereas conj.而,却,反之
+59.whereby ad.靠什么;靠那个
+60.whirl vt.使回旋 vi.&n.回旋
+61.withhold vt. 拒绝,不给,使停止,阻挡
+62.wrench vt.拧,扭伤 n.拧
+63.wretched a.不幸的;卑鄙的
+64.wrinkle n.皱纹 vt.使起皱纹
+65.yacht n.游艇,快艇
+66.yell vi.叫喊
